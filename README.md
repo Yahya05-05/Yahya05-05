@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Yahya 👋
 
-<!--
-**Yahya05-05/Yahya05-05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+SOC Analyst in training | Cybersecurity student in Jordan
 
-Here are some ideas to get you started:
+## What I'm working on
+- Completing the SOC track at Green Circle (Cyber Bridge Program)
+- Building a SOC-focused graduation project
+- Documenting my labs and projects here
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools & skills
+Wazuh · Suricata · Threat Intelligence · auditd · Incident Response · Threat Hunting
+
+## Goals
+- Junior SOC Analyst role
+- Blue Team Level 1 (BTL1), planned after graduation
+
+## Languages
+Arabic (native) · English
+
